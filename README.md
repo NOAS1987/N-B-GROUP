@@ -35,5 +35,5 @@ Découvrez ci-dessous nos réalisations phares, incluant les plans, les modélis
 Bien que notre terrain de jeu soit le chantier, notre précision naît des meilleurs outils numériques :
 
 ```img
-[AutoCAD] ----- [Revit] ----- [SketchUp] ----- [Lumion / V-Ray] ----- [MS Project]
+[Revit] ----- [Revit] ----- [Revit] ----- [V-Ray] ----- [MS Project]
 (Plans 2D)    (BIM & 3D)    (Modélisation)      (Rendus 3D)        (Suivi Travaux)
